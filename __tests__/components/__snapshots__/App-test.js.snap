@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders 1`] = `
+<div
+  className="grommet grommetux-app grommetux-app--centered"
+  lang="en-US"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-row grommetux-box--align-center grommetux-box--pad-none grommetux-title grommetux-title--responsive grommetux-title--truncate"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <span>
+      Hello World
+    </span>
+  </div>
+  <p>
+    Hello from a Grommet page!
+  </p>
+  <span
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  />
+  <div
+    aria-live="polite"
+    className="grommetux-app__announcer"
+  />
+</div>
+`;
